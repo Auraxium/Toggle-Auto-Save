@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "smart-save" extension will be documented in this file.
+1.0.0 - Launch
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+1.0.1 - Typeos and grammer
+1.0.2 - Typeos and grammer
+1.0.3 - Typeos and grammer
+1.0.4 - Typeos and grammer
+1.0.5 - Typeos and grammer
